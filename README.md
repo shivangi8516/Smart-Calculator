@@ -10,3 +10,5 @@ It was developed using HTML , CSS and modern Javascript and supports the followi
 4.Clear Button
 5.Backspace Button
 6.Maths Functions like tan,sin,cos etc.
+
+
