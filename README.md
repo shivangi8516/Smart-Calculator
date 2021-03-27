@@ -1,5 +1,8 @@
 # Smart-Calculator
 
+![Screenshot (1574)](https://user-images.githubusercontent.com/49413398/112723840-8ce8b900-8f36-11eb-897b-5f3d0abd4cdd.png)
+
+
 Smart Calculator is typically a website calculator used to perform calculations, ranging from basic arithmetic to complex mathematics.
 
 It was developed using HTML , CSS and modern Javascript and supports the following functions:
